@@ -3,12 +3,12 @@ layout: home
 sidebar: true
 
 title: Lingmo Wiki
-titleTemplate: Lingmo OS 的官方 Wiki
+titleTemplate: The official Wiki of Lingmo OS
 
 hero:
   # name: Lingmo OS Wiki
   text: Lingmo OS Wiki
-  tagline: Lingmo GNU/Linux (Lingmo OS) is a Linux operating system based on Linux kernel and adapted to the amd64 architecture. It has a beautiful desktop environment, including software for the desktop environment, and a unified UI style.
+  tagline: Lingmo GNU/Linux (Lingmo OS) is a Linux operating system based on the Linux kernel and adapted to the amd64 architecture. It has a beautiful desktop environment, including software for the desktop environment, and a unified UI style.
   image:
     src: /logo.svg
     alt: Vitest
@@ -17,24 +17,24 @@ hero:
       text: Go!
       link: /en/LingmoOS/
     # - theme: alt
-    #   text: 加入 Discord 服务器
+    #   text: Join Discord Server
     #   link: https://discord.gg/XuNFDcDZGj
     - theme: alt
       text: GitHub
       link: https://github.com/LingmoOS/
 
 features:
-  - title: 更好的交互
-    details: Lingmo OS对整个系统进行了重新设计，优化了视觉效果，提升了用户体验
+  - title: Better Interaction
+    details: Lingmo OS has redesigned the entire system, optimized visual effects, and enhanced user experience.
     icon: 🌈
   - title: Stable and Safe
-    details: Lingmo OS 底层基于极其稳定的 Debian GNU/Linux，不仅美观，还非常可靠
+    details: Lingmo OS is based on the extremely stable Debian GNU/Linux, which is not only beautiful but also very reliable.
     icon: 📃
   - title: Fluent Interface
-    details: Lingmo OS对硬件配置要求相对较低，即使在配置较低的硬件上也能获得流畅的体验
+    details: Lingmo OS has relatively low hardware requirements, providing a smooth experience even on lower-end hardware.
     icon: 🚀
-  - title: 全新的全局菜单
-    details: Lingmo OS 采用顶部全局菜单设计，在提供众多功能的同时节省屏幕空间
+  - title: Brand New Global Menu
+    details: Lingmo OS uses a top global menu design, providing many functions while saving screen space.
     icon: 🗃
 ---
 
