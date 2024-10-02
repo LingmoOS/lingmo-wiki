@@ -16,7 +16,7 @@ hero:
       link: https://www.lingmo.org
     - theme: alt
       text: GitHub
-      link: https://github.com/LingmoOS
+      link: https://github.com/LingmoOS/lingmo-wiki
 
 features:
   - title: About Lingmo OS
