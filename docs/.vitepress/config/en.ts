@@ -6,7 +6,7 @@ export const en = defineConfig({
     nav: nav(),
     sidebar: sidebarItems(),
     editLink: {
-      pattern: 'https://github.com/LingmoOS/lingmo-wiki/edit/main/:path',
+      pattern: 'https://github.com/LingmoOS/lingmo-wiki/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     footer: {

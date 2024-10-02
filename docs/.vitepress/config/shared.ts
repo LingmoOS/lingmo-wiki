@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { en } from './en'
-export default defineConfig({
+export const shared = defineConfig({
   title: 'Lingmo Wiki',
   rewrites: {
     'en/:rest*': ':rest*'
@@ -20,10 +19,5 @@ export default defineConfig({
       provider: 'local'
     },
     outline: [2, 6]
-  },
-  locales: {
-    root: {
-      label: 'English', ...en
-    },
   },
 })

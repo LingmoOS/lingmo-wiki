@@ -12,5 +12,6 @@
     "b": "vitepress build",
     "p": "vitepress preview",
     "bp": "vitepress build && vitepress preview"
-  }
+  },
+  "type": "module"
 }
