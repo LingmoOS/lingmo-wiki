@@ -24,6 +24,7 @@ features:
     link: wiki/about
   - title: FAQ
     details: Notable questions and facts about the distribution.
+    link: wiki/faq
   - title: Installation Guide
     details: Guide through the process of installing Lingmo OS.
     link: wiki/installation-guide
@@ -33,7 +34,6 @@ features:
     details: An extensive list of terms releated to Lingmo OS with definitions and explanations.
   - title: Contributors' Guide
     details: The starting point for those willing to contribute to Lingmo OS.
-    link: wiki/faq
   - title: Developer Documentation
     details: Getting involved in Lingmo OS development.
   - title: History
