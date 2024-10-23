@@ -9,7 +9,7 @@ In this tutorial, we will guide you through the steps required to install Lingmo
 
 - A laptop or PC with at least 25GB of storage space.
 
-- A flash drive (12GB or above recommended).
+- A flash drive (4GB or above is recommended).
 
 ## *2* Download a LingmoOS Image
 
@@ -17,7 +17,7 @@ You can download a LingmoOS image [here](https://lingmo.org/download). Make sure
 
 ![LingmoOS ISO Download](../assets/installation-guide/1.jpg)
 
-## 3. Create a Bootable USB stick
+## *3* Create a Bootable USB stick
 
 To install LingmoOS, you need to write your downloaded ISO to a USB stick to create the installation media. This is not the same as copying the ISO, and requires some bespoke software.
 
@@ -29,7 +29,7 @@ Select your downloaded ISO, choose your USB flash drive, and then click `Flash!`
 
 ![Flash to Disk](../assets/installation-guide/3.jpg)
 
-## 4. Boot from USB flash drive
+## *4* Boot from USB flash drive
 
 Insert the USB flash drive into the laptop or PC you want to use to install Ubuntu and boot or restart the device. It should recognize the installation media automatically. If not, try holding `F12` (according to your motherboard manufacturer) during startup and selecting the USB device from the system-specific boot menu.
 
@@ -51,19 +51,19 @@ Once the installer has initialised you will be invited to choose your language
 
 To proceed, click `Next`.
 
-## 5. Choose your Location
+## *5* Choose your Location
 
 Select your location and timezone from the map screen and click `Next`. This information will be detected automatically if you are connected to the internet.
 
 ![Choose location](../assets/installation-guide/7.jpg)
 
-## 6. Choose your Keyboard Layout
+## *6* Choose your Keyboard Layout
 
 You will be asked to select your keyboard layout. Once you’ve chosen one, click `Next`.
 
 ![Choose keyboard layout](../assets/installation-guide/8.jpg)
 
-## 7. Choose your Partitioning
+## *7* Choose your Partitioning Layout
 
 This screen allows you to configure your installation. If you would like LingmoOS to be the only operating system on your hard drive, select `Erase disk` and install LingmoOS.
 
@@ -83,7 +83,7 @@ Swap space of at least half of the available RAM is recommended. For instance, w
 
 > If you have a Windows 8 sticker on your machine you might need to make a separate EFI partition with a FAT32 filesystem.
 
-## 8. Create Your Login Details
+## *8* Create Your Login Details
 
 On this screen, you will be prompted to enter your name and the name of your computer as it will appear on the network. Finally, you will create a username and a strong password.
 
@@ -91,7 +91,7 @@ You can choose to log in automatically or require a password. If you are using y
 
 ![Create your login details](../assets/installation-guide/10.jpg)
 
-## 9. Confirm the Installation
+## *9* Confirm the Installation
 
 You will now be asked to review the settings you have chosen. If you are happy with them, click `Install`.
 
@@ -103,6 +103,6 @@ And then sit back and enjoy the slideshow as LingmoOS installs in the background
 
 After reboot, you can enter your new system!
 
-## 10. You’ve installed LingmoOS!
+## *10* You’ve installed LingmoOS!
 
 Thank you for completing this tutorial. We hope you enjoy your new desktop.
