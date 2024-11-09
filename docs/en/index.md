@@ -30,7 +30,7 @@ features:
     icon: ❓
     details: Notable questions and facts about Lingmo OS.
     link: wiki/faq
-  - title: Install Lingmo OS
+  - title: Installation Guide
     icon: 💾
     details: Guide through the process of installing Lingmo OS.
     link: wiki/installation-guide
