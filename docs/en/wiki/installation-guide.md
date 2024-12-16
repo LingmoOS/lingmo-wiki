@@ -23,6 +23,9 @@ To install LingmoOS, you need to write your downloaded ISO to a USB stick to cre
 
 For this tutorial, we’ll use [balenaEtcher](https://etcher.balena.io/), as it runs on Linux, Windows and macOS. Choose the version that corresponds to your current operating system, download and install the tool.
 
+> [!Warning]
+> Etcher [reports errors and usage statistics by default](https://github.com/balena-io/etcher/issues/2057). TODO: Replace it with [Ventoy](https://ventoy.net) in this tutorial
+
 ![Download balenaEtcher](../assets/installation-guide/2.jpg)
 
 Select your downloaded ISO, choose your USB flash drive, and then click `Flash!` to install your image.
