@@ -7,7 +7,7 @@ In this tutorial, we will guide you through the steps required to install Lingmo
 
 ## *1* Preparation
 
-- A laptop or PC with at least 25GB of storage space.
+- A laptop or PC with at least 10GB of storage space.
 
 - A flash drive (4GB or above is recommended).
 
