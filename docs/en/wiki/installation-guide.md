@@ -9,7 +9,7 @@ In this tutorial, we will guide you through the steps required to install Lingmo
 
 - A laptop or PC with at least 10GB of storage space.
 
-- A flash drive (4GB or above is recommended).
+- A USB stick (4GB or above is recommended).
 
 ## *2* Download a LingmoOS Image
 
@@ -19,18 +19,11 @@ You can download a LingmoOS image [here](https://lingmo.org/download). Make sure
 
 ## *3* Create a Bootable USB stick
 
-To install LingmoOS, you need to write your downloaded ISO to a USB stick to create the installation media. This is not the same as copying the ISO, and requires some bespoke software.
+To install LingmoOS, you need to write your downloaded ISO to a USB stick to create the installation media.
 
-For this tutorial, we’ll use [balenaEtcher](https://etcher.balena.io/), as it runs on Linux, Windows and macOS. Choose the version that corresponds to your current operating system, download and install the tool.
+For this tutorial, we’ll use [Ventoy](https://ventoy.net), as it runs on Linux, Windows and macOS and it's so simple that you just need to copy the ISO image to the USB stick after installing Ventoy. Choose the version that corresponds to your current operating system, download and install the tool.
 
-> [!Warning]
-> Etcher [reports errors and usage statistics by default](https://github.com/balena-io/etcher/issues/2057). TODO: Replace it with [Ventoy](https://ventoy.net) in this tutorial
-
-![Download balenaEtcher](../assets/installation-guide/2.jpg)
-
-Select your downloaded ISO, choose your USB flash drive, and then click `Flash!` to install your image.
-
-![Flash to Disk](../assets/installation-guide/3.jpg)
+Follow this tutorial to install Ventoy to your USB stick and copy the ISO image: <https://ventoy.net/en/doc_start.html>
 
 ## *4* Boot from USB flash drive
 
