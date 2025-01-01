@@ -1,5 +1,5 @@
 # About
-![LingmoOS](../assets/about/desktop.png)
+![LingmoOS](../assets/about/desktop.webp)
 
 > [Lingmo OS Official Website](https://lingmo.org/)
 
