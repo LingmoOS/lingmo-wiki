@@ -7,7 +7,7 @@
 git clone https://github.com/LingmoOS/lingmo-wiki
 cd lingmo-wiki
 pnpm i
-pnpm vitepress dev docs
+pnpx vitepress dev docs
 ```
 ### npm
 ```shell
