@@ -5,7 +5,7 @@ Here's a list of applications that LingmoDE provides.
 - liblingmo
 - [lingmo-filemanager](lingmo-filemanager)
 - lingmo-settings
-- lingmo-terminal
+- [lingmo-terminal](lingmo-terminal)
 - lingmo-dock
 - lingmo-launcher
 - lingmo-statusbar
