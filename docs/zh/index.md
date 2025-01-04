@@ -21,18 +21,18 @@ hero:
 features:
   - title: 入门指南
     icon: 🚀
-    link: wiki/about
+    link: zh/wiki/about
   - title: 关于 Lingmo Wiki
     icon: 📕
   - title: FAQ
     icon: ❓
-    link: wiki/faq
+    link: zh/wiki/faq
   - title: 安装指南
     icon: 💾
-    link: wiki/installation-guide
+    link: zh/wiki/installation-guide
   - title: 术语表
     icon: 📚
-    link: wiki/glossary
+    link: zh/wiki/glossary
   - title: 教程
     icon: 📝
   - title: 开发者与贡献者指南
