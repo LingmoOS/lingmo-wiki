@@ -21,7 +21,7 @@ hero:
 features:
   - title: Getting Started
     icon: 🚀
-    link: wiki/about
+    link: wiki/getting-started
   - title: About Lingmo Wiki
     icon: 📕
   - title: FAQ
