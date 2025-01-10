@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: wiki/about
+      link: wiki/getting-started
     - theme: alt
       text: Official Website
       link: https://www.lingmo.org

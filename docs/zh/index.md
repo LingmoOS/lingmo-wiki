@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: wiki/about
+      link: wiki/getting-started
     - theme: alt
       text: 官方网站
       link: https://www.lingmo.org
@@ -21,7 +21,7 @@ hero:
 features:
   - title: 入门指南
     icon: 🚀
-    link: zh/wiki/about
+    link: zh/wiki/getting-started
   - title: 关于 Lingmo Wiki
     icon: 📕
   - title: FAQ
