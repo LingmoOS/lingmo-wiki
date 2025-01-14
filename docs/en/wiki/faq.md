@@ -17,3 +17,6 @@ However, LingmoDE packages are still available on AUR.
 
 # Are there any LingmoDE packages for Debian 12?
 Yes. See <https://download.opensuse.org/repositories/home:/elysia:/LingmoOS/Debian_12/>.
+
+# I encountered 404 on `apt update`!
+We removed `hydrogen` from <https://packages.lingmo.org> rencently. Edit your apt sources file, and replace `hydrogen` with `helium`.
