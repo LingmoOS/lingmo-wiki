@@ -7,6 +7,9 @@ Fast, free and full of new features. The latest release of Lingmo OS delivers ne
 
 Lingmo GNU/Linux (Lingmo OS) is a operating system based on Debian GNU/Linux. It offers a beautiful Desktop environment, includes software tailored for this environment, and features a unified UI style. Lingmo OS aims to provide a smooth and visually appealing desktop experience.
 
+### UI and New Desktop Environment
+Lingmo OS adopts a new design different from traditional KDE, making operations less cumbersome. We have also optimized and refactored CutefishDE to make the operation more user-friendly, enhancing the interaction and visual experience.
+
 ### Lightweight and Smooth Experience
 Lingmo OS can run on low-performance hardware, offering a lighter and smoother experience than heavy desktop operating systems like Windows 11. Its lightweight nature ensures a fast and enjoyable user experience, making it an ideal choice for both newcomers and seasoned Linux enthusiasts.
 
