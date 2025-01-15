@@ -19,7 +19,7 @@ hero:
       link: https://github.com/LingmoOS/lingmo-wiki
 
 features:
-  - title: 入门指南
+  - title: 开始使用
     icon: 🚀
     link: zh/wiki/getting-started
   - title: 关于 Lingmo Wiki
