@@ -13,7 +13,7 @@ In this tutorial, we will guide you through the steps required to install Lingmo
 
 ## *2* Download a Lingmo OS Image
 
-You can download a Lingmo OS image [here](https://lingmo.org/download). Make sure to save it to a memorable location on your PC! For this tutorial, we will use the LingmoOS 2.0 beta version which uses the new Lingmo installer that will be included in all future LingmoOS releases.
+You can download a Lingmo OS image [here](https://lingmo.org/download). Make sure to save it to a memorable location on your PC! For this tutorial, we will use Lingmo OS 2.1 which is the latest version.
 
 ![Lingmo OS ISO Download](../assets/installation-guide/1.webp)
 
@@ -99,6 +99,6 @@ And then sit back and enjoy the slideshow as Lingmo OS installs in the backgroun
 
 After reboot, you can enter your new system!
 
-## *10* You’ve installed LingmoOS!
+## *10* You’ve installed Lingmo OS!
 
 Thank you for completing this tutorial. We hope you enjoy your new desktop.

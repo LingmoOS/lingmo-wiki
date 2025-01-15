@@ -1,6 +1,6 @@
 # Getting Started
 
-## About LingmoOS
+## About Lingmo OS
 > [Lingmo OS Official Website](https://lingmo.org/)
 
 Fast, free and full of new features. The latest release of Lingmo OS delivers new tools and enhancements for developers, creators, gamers and administrators.
@@ -11,9 +11,9 @@ Lingmo GNU/Linux (Lingmo OS) is a operating system based on Debian GNU/Linux. It
 Lingmo OS can run on low-performance hardware, offering a lighter and smoother experience than heavy desktop operating systems like Windows 11. Its lightweight nature ensures a fast and enjoyable user experience, making it an ideal choice for both newcomers and seasoned Linux enthusiasts.
 
 ### Gallery
-![LingmoOS](../assets/about/desktop.webp)
+![Lingmo OS](../assets/about/desktop.webp)
 
-## Installing LingmoOS
+## Installing Lingmo OS
 See [Installation Guide](installation-guide).
 
 ## Installing LingmoDE on other Linux distributions
