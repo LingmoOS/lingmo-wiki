@@ -4,12 +4,12 @@
 User-agent: *
 # Allowed paths
 Allow: /  
-Allow: /en/  
+Allow: /zh/  
+Allow: /wiki/ 
 
 # Disallowed paths
 Disallow: /assets/ 
-Disallow: /img/ 
 
 # General sitemap applicable to all crawlers (may be overridden by specific crawler rules)
 # Note: Some crawlers may prioritize rules set specifically for them over general rules
-Sitemap: https://doc.zen-harmony.top/sitemap.xml  # Provide general sitemap
+Sitemap: https://wiki.lingmo.org/sitemap.xml  # Provide general sitemap
