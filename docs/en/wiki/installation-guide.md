@@ -15,7 +15,7 @@ In this tutorial, we will guide you through the steps required to install Lingmo
 
 You can download a Lingmo OS image [here](https://lingmo.org/download). Make sure to save it to a memorable location on your PC! For this tutorial, we will use the LingmoOS 2.0 beta version which uses the new Lingmo installer that will be included in all future LingmoOS releases.
 
-![Lingm oOS ISO Download](../assets/installation-guide/1.webp)
+![Lingmo OS ISO Download](../assets/installation-guide/1.webp)
 
 ## *3* Create a Bootable USB stick
 
