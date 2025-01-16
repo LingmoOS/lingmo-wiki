@@ -63,6 +63,9 @@ You will be asked to select your keyboard layout. Once you’ve chosen one, clic
 
 This screen allows you to configure your installation. If you would like Lingmo OS to be the only operating system on your hard drive, select `Erase disk` and install Lingmo OS.
 
+> [!Warning]
+> It will erase the ENTIRE DISK and you will LOST ALL THE DATA, consider using the manual partitioning described below instead.
+
 If your device currently has another operating system installed, you will receive additional options to install Lingmo OS alongside that OS rather than replacing it.
 
 ![Choose partitioning](../assets/installation-guide/7.webp)
