@@ -1,6 +1,6 @@
 # Developers and Contributors' Guide (WIP)
 
-Welcome to the developers and contributors' guide for Lingmo OS! This guide provide you with the necessary tools and resources to get started.
+Thank you for choosing Lingmo OS for your development journey! This guide provide you with the necessary tools and resources to get started. If you encounter any issues, please refer to the [FAQ](faq.md) or reach out to our community for support.
 
 ## *1* Getting Started
 
@@ -61,7 +61,3 @@ Please review our [Code of Conduct](code-of-conduct.md) to understand the standa
 ## *3* Reporting a bug
 
 *WIP*
-
-## *4* Epilogue
-
-Thank you for choosing Lingmo OS for your development journey! If you encounter any issues, please refer to the [FAQ](faq.md) or reach out to our community for support.
