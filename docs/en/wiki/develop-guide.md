@@ -25,7 +25,18 @@ git clone https://github.com/LingmoOS/LingmoOS
 # Set Up the repo Tool
 mkdir -pv ~/.local/bin
 cp -v LingmoOS/repo ~/.local/bin
-export PATH="$PATH:$HOME/bin"
+export PATH="$PATH:$HOME/.local/bin"
+
+# Add above command to your shell's configuration (Optional)
+case "$SHELL" in
+    */bash)
+        echo 'export PATH="$PATH:$HOME/.local/bin"' >> ~/.bashrc
+        ;;
+    */zsh)
+        echo 'export PATH="$PATH:$HOME/.local/bin"' >> ~/.zshrc
+        ;;
+esac
+
 
 # Create a Build Directory
 mkdir -pv lingmowork && cd lingmowork
@@ -43,9 +54,11 @@ repo sync
 
 We have a [`lingmo-build`](https://github.com/LingmoOS/lingmo-build) script which automates the build process. However, you can still compile them by yourself.
 > [!Note]
-> This tool clone repositories elsewhere, so it's still necessary to compile manually if you make any modifications to repositories in the  `lingmowork` directory.
+> This tool use repositories cloned from GitHub by itself, so it's still necessary to compile manually if you make any modifications to repositories in the  `lingmowork` directory.
+
 > [!Important]
 > This script only works on Debian.
+
 We assume that [PowerShell](https://github.com/PowerShell/PowerShell) is installed on your system.
 
 ```console
@@ -66,11 +79,11 @@ Refer to the corresponding selection in [Component List](component-list).
 
 ### *2.1* Contribution Workflow
 
-1. **Fork the Repository (Create a branch)**: Start by forking the repository on GitHub. Alternatively, create a branch if you are in the Lingmo OS organization and have write permission in the repository.
-2. **Create a Feature Branch**: Develop your changes in a new branch.
+1. **Fork the Repository (Create a Branch)**: Start by forking the repository on GitHub. Alternatively, create a branch if you are in the Lingmo OS organization and have write permission in the repository.
+2. **Create a Feature Branch**: Develop your changes in the newly created fork (or branch).
 3. **Make Changes**: Implement the desired features or fixes.
 4. **Test Changes**: Ensure your changes are tested thoroughly.
-5. **Commit Changes**: Commit your changes with clear and descriptive messages, **and follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) as a standard** (very important).
+5. **Commit Changes**: Commit your changes with clear and descriptive messages, **and follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) as a standard**.
 6. **Push Changes**: Push your commits to your forked repository.
 7. **Create a Pull Request**: Submit a pull request to the original repository.
 8. **Review and Merge**: Wait for the code reviewers in the corresponding team to review your pull request and merge it into the main branch.
