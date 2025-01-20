@@ -37,6 +37,7 @@ features:
     icon: 📝
   - title: 开发者与贡献者指南
     icon: 🌱
+    link: zh/wiki/develop-guide
   - title: 历史
     icon: 📖
 ---

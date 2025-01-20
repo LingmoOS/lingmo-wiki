@@ -1,8 +1,6 @@
-# Lingmo OS Developer Documentation Index
+# Lingmo OS Component List
 
-This index provides a structured overview of the components of Lingmo OS, organized into categories for easy navigation. Each component is linked to its corresponding GitHub repository and includes its path from the manifest.xml.
-
-To optimize the category organization for the Lingmo OS documentation, we propose the following structure, which is designed to be intuitive and user-friendly, catering to both developers and end-users:
+This list provides a structured overview of the components of Lingmo OS, organized into categories for easy navigation. Each component is linked to its corresponding GitHub repository and includes its path from the [default.xml](https://github.com/LingmoOS/manifest/blob/main/default.xml) file. The list also includes a brief description, documentation links, and licensing information for each component.
 
 ## Kernel and System Services
 
