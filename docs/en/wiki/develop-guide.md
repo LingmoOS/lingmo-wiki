@@ -60,7 +60,7 @@ $ pwsh -c "./build.ps1 -BuildFromGit" # build from git
 
 #### *1.3.2* Manually
 
-*WIP*
+Refer to the corresponding selection in [Component List](component-list).
 
 ## *2* Making a contribution
 
@@ -85,4 +85,8 @@ Please review our [Code of Conduct](code-of-conduct.md) to understand the standa
 
 ## *3* Reporting a bug
 
-*WIP*
+1. **Identify the bug**: Try to reproduce the bug to confirm its existence and check if it's really a bug (don't add the `bug` tag if you want to request a feature).
+2. **Check for duplicates**: Search the existing issues to see if the issue has already been reported.
+3. **Gather information**: Collect all relevant information that will help us understand and reproduce the bug e.g. detailed explanations, stacktraces and logs, system (or environment) info, related issues, suggestions on how to fix the bug, links, etc.
+4. **Report the bug**: Create a new issue in the relevant repository. Fill up the [Issue Template](https://github.com/LingmoOS/.github/blob/main/issue_template.md) with all the information you gathered. Be as detailed and precise as possible.
+5. **Be responsive**: After reporting the bug, answer follow-up questions. Developers may need additional information to fix the bug.
