@@ -102,6 +102,6 @@ And then sit back and enjoy the slideshow as Lingmo OS installs in the backgroun
 
 After reboot, you can enter your new system!
 
-## *10* You’ve installed Lingmo OS!
+## *10* You’ve installed Lingmo OS
 
 Thank you for completing this tutorial. We hope you enjoy your new desktop.
