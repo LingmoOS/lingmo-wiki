@@ -6,6 +6,7 @@ TODO: Complete the LingmoUI page
 >
 ## Gallery (WIP)
 
+![About Page on Lingmo OS 2.1](lingmoos-2.1.webp)
 *About Page on Lingmo OS 2.1*
 
 *About Page on Lingmo OS 3.0 (Helium) rc*
