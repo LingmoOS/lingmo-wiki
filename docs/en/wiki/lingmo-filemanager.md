@@ -14,4 +14,4 @@ lingmo-filemanager --desktop
 
 ## Gallery
 
-*WIP*
+![lingmo-filemanager screenshot](../assets/lingmo-filemanager/lingmo-filemanager.webp)
