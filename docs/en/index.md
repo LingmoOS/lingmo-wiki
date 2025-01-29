@@ -42,6 +42,6 @@ features:
     icon: 📖
 ---
 > [!Important]
-> The entire Wiki is WIP (and you can see that some articles are not available), which means that it's incomplete and contains errors!
+> The entire Wiki is WIP, which means that many articles are incomplete or pending creation.
 >
-> Help us improve and expand this wiki by submitting a pull request in the [lingmo-wiki repository on GitHub](https://github.com/LingmoOS/lingmo-wiki).
+> Help us improve and expand this wiki by submitting pull requests in the [lingmo-wiki repository on GitHub](https://github.com/LingmoOS/lingmo-wiki).
