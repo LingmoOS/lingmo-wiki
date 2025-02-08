@@ -14,7 +14,7 @@ Related Repositories:
 
 Generally referred to the Lingmo Project (Lingmo OS and Lingmo Desktop Environment, see below).
 
-## Lingmo Desktop Environment (or LingmoDE)
+## Lingmo Desktop Environment (abbr. LingmoDE)
 
 The default desktop environment for Lingmo OS, modified from the Cutefish Desktop Environment for [CutefishOS](https://github.com/cutefishos).
 
