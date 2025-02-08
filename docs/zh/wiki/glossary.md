@@ -10,11 +10,11 @@
 - <https://github.com/Lingmo-Archive/archlingmo-releases>
 - <https://github.com/Lingmo-Archive/archlingmo-pkg>
 
-## Lingmo，灵墨
+## Lingmo（灵墨）
 
-通常指 Lingmo 项目（Lingmo 操作系统和Lingmo 桌面环境，见下文）。
+通常指 Lingmo 项目（Lingmo 操作系统和 Lingmo 桌面环境，见下文）。
 
-## Lingmo 桌面环境，Lingmo Desktop Environment（或 LingmoDE）
+## LingmoDE（Lingmo 桌面环境，英文全称为 Lingmo Desktop Environment）
 
 Lingmo OS 的默认桌面环境, 由 Cutefish 桌面环境（[CutefishOS](https://github.com/cutefishos)）修改而来。
 
