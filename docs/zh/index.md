@@ -48,7 +48,7 @@ features:
     link: zh/wiki/history
 ---
 > [!Warning]
-> 目前中文 Lingmo Wiki 包含大量生草翻译（或者机翻），WIP 阶段请以英文 Wiki 内容为准。
+> 目前中文 Lingmo Wiki 包含大量机翻内容，WIP 阶段请以英文 Wiki 为准。
 
 > [!Important]
 > 该 Wiki 仍然在完善中 （因此有些文章尚不可用），这意味着它不完整且可能包含错误！
