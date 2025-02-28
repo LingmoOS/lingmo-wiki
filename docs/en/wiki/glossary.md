@@ -2,13 +2,13 @@
 
 ## ArchLingmo
 
-A branch of Lingmo OS which is based on Arch Linux. No longer maintained.
+A branch of Lingmo OS which is based on Arch Linux.
 
 Related Repositories:
 
-- <https://github.com/Lingmo-Archive/archlingmo-archiso-config>
+- <https://github.com/LingmoOS-Testing/archlingmo-archiso-config>
+- <https://github.com/LingmoOS-Testing/archlingmo-pkg>
 - <https://github.com/Lingmo-Archive/archlingmo-releases>
-- <https://github.com/Lingmo-Archive/archlingmo-pkg>
 
 ## Lingmo
 
