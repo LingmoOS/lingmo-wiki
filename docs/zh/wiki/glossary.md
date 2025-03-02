@@ -2,13 +2,13 @@
 
 ## ArchLingmo
 
-一个基于 Arch Linux 的 LingmoOS 分支。已停止维护。
+一个基于 Arch Linux 的 LingmoOS 分支。
 
 相关仓库:
 
-- <https://github.com/Lingmo-Archive/archlingmo-archiso-config>
+- <https://github.com/LingmoOS-Testing/archlingmo-archiso-config>
+- <https://github.com/LingmoOS-Testing/archlingmo-pkg>
 - <https://github.com/Lingmo-Archive/archlingmo-releases>
-- <https://github.com/Lingmo-Archive/archlingmo-pkg>
 
 ## Lingmo（灵墨）
 
