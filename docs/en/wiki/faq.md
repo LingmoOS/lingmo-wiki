@@ -16,9 +16,9 @@ We planned to migrate LingmoDE to Qt6, since Debian 12 don't have necessary pack
 
 ## Why not Arch?
 
-There's a project called ArchLingmo before(see [glossary](glossary#archlingmo)), but it was cancelled because we have found that Debian is easier for beginners(on system maintenance tasks).
+There's a project called [ArchLingmo](glossary#archlingmo), but it's not meant to replace the Debian mainline version, because Debian is easier for beginners on system maintenance tasks.
 
-However, LingmoDE packages are still available on AUR.
+However [LingmoDE packages are available on AUR](https://github.com/LingmoOS/aur).
 
 ## Are there any LingmoDE packages for Debian 12?
 
