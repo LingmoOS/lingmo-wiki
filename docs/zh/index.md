@@ -39,7 +39,7 @@ features:
     link: zh/wiki/glossary
   - title: 教程
     icon: 📝
-    link: zh/wiki/tutorial
+    link: zh/wiki/tutorials
   - title: 开发者与贡献者指南
     icon: 🌱
     link: zh/wiki/develop-guide
