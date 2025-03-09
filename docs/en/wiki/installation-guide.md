@@ -13,7 +13,7 @@ In this tutorial, we will guide you through the steps required to install Lingmo
 
 ## *2* Download a Lingmo OS Image
 
-You can download a Lingmo OS image [here](https://lingmo.org/download). Make sure to save it to a memorable location on your PC! For this tutorial, we will use Lingmo OS 2.1 which is the latest version.
+You can download a Lingmo OS image [here](https://lingmo.org/download). Make sure to save it to a memorable location on your PC. For this tutorial, we will use Lingmo OS 2.1 which is the latest version.
 
 ![Lingmo OS ISO Download](../assets/installation-guide/1.webp)
 
@@ -21,17 +21,17 @@ You can download a Lingmo OS image [here](https://lingmo.org/download). Make sur
 
 To install Lingmo OS, you need to write your downloaded ISO to a USB stick to create the installation media.
 
-For this tutorial, we’ll use [Ventoy](https://ventoy.net), as it runs on Linux, Windows and macOS and it's so simple that you just need to copy the ISO image to the USB stick after installing Ventoy. Choose the version that corresponds to your current operating system, download and install the tool.
+We’ll use [Ventoy](https://ventoy.net), as it runs on Linux, Windows and macOS and it's so simple that you just need to copy the ISO image to the USB stick after installing Ventoy. Choose the version that corresponds to your current operating system, download and install the tool.
 
 Follow this tutorial to install Ventoy to your USB stick and copy the ISO image: <https://ventoy.net/en/doc_start.html>
 
 ## *4* Boot from USB flash drive
 
-Insert the USB flash drive into the laptop or PC you want to use to install LingmoOS and boot or restart the device. It should recognize the installation media automatically. If not, try holding `F12` (according to your motherboard manufacturer) during startup and selecting the USB device from the system-specific boot menu.
+Insert the USB flash drive into the laptop or PC you want to use to install LingmoOS and boot or restart the device. Hold `F12` (according to your motherboard manufacturer) during startup and selecting the USB device from the system-specific boot menu.
 
-> F12 is the most common key for bringing up your system’s boot menu, but Escape, F2 and F10 are common alternatives. If you’re unsure, look for a brief message when your system starts – this will often inform you of which key to press to bring up the boot menu.
+> F12 is the most common key for bringing up your system’s boot menu, but Escape, F1, F2 and F10 are common alternatives. If you’re unsure, look for a brief message when your system starts – this will often inform you of which key to press to bring up the boot menu.
 
-On some older images, you will be required to enter a password to enter the live session. If you enconter this, enter the password `live` and press `Enter`.
+On older Lingmo OS images, you will be required to enter a password to enter the live session. If you enconter this, enter the password `live` and press `Enter`.
 
 ![Enter password](../assets/installation-guide/2.webp)
 
