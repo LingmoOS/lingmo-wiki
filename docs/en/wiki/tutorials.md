@@ -1,2 +1,2 @@
-# List of Tutorials (WIP)
+# List of Tutorials & Howtos (WIP)
 - [Installation Guide](installation-guide)
