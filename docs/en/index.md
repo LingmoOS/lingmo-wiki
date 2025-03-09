@@ -39,7 +39,7 @@ features:
     link: wiki/glossary
   - title: Tutorials & Howtos
     icon: 📝
-    link: wiki/tutorial
+    link: wiki/tutorials
   - title: Developers and Contributors' Guide
     icon: 🌱
     link: wiki/develop-guide
