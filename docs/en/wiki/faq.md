@@ -10,10 +10,6 @@ Here are some answers to common questions. If your problem cannot be solved here
 
 [Debian](https://debian.org).
 
-## Why not Debian 12 (stable) but Debian 13 (unstable)?
-
-We planned to migrate LingmoDE to Qt6, since Debian 12 don't have necessary packages, we have to use Debian 13.
-
 ## Why not Arch?
 
 There's a project called [ArchLingmo](glossary#archlingmo), but it's not meant to replace the Debian mainline version, because Debian is easier for beginners on system maintenance tasks.
