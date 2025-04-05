@@ -55,7 +55,7 @@ repo sync
 We have a [`lingmo-build`](https://github.com/LingmoOS/lingmo-build) script which automates the build process. However, you can still compile them by yourself.
 
 > [!Warning]
-> `lingmo-build` is deprecated, but it may be still work in the future. (TODO: add lingmo-pkgbuild)
+> `lingmo-build` is deprecated and may not work in the future. (TODO: add lingmo-pkgbuild)
 
 > [!Note]
 > This tool use repositories cloned from GitHub by itself, so it's still necessary to compile manually if you make any modifications to repositories in the  `lingmowork` directory.
