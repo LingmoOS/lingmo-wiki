@@ -31,4 +31,4 @@ However, it's recommended to use `Lingmo OS` instead of `LingmoOS`.
 
 ## LingmoNix
 
-See <https://github.com/LingmoOS-Testing/lingmo-nix>.
+See <https://github.com/LingmoOS-Testing/lingmo-nix> and <https://github.com/LingmoOS-Testing/LingmoNix-Starter>.
