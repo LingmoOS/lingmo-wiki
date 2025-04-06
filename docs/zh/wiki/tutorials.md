@@ -1,2 +1,2 @@
 # 教程列表
-- [Installation Guide](installation-guide)
+- [安装指南](installation-guide)
