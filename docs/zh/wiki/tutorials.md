@@ -1,1 +1,2 @@
-# 教程 (WIP)
+# 教程列表
+- [Installation Guide](installation-guide)
