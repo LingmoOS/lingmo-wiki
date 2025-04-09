@@ -8,7 +8,7 @@ Related Repositories:
 
 - <https://github.com/LingmoOS-Testing/archlingmo-archiso-config>
 - <https://github.com/LingmoOS-Testing/archlingmo-pkg>
-- <https://github.com/Lingmo-Archive/archlingmo-releases>
+- <https://github.com/LingmoOS-Archive/archlingmo-releases>
 
 ## Lingmo
 
