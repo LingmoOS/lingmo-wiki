@@ -1,5 +1,4 @@
 # 开始使用
-
 ## 关于 Lingmo OS
 >
 > [Lingmo OS 官方网站](https://lingmo.org/)
