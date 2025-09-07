@@ -10,10 +10,6 @@
 
 [Debian](https://debian.org)。
 
-## 为什么使用 Debian 13（稳定版）？
-
-我们计划把 LingmoDE 迁移到 Qt6，因为 Debian 13 有我们必需的包，而且比测试版稳定性更好。
-
 ## 为什么不用 Arch ？
 
 我们之前有一个项目叫做 ArchLingmo（见[术语表](glossary#archlingmo)，但是该项目已被取消，因为我们发现 Debian 对新手更加简单（在系统维护任务上）。
