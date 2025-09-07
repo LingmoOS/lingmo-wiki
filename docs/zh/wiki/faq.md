@@ -10,9 +10,9 @@
 
 [Debian](https://debian.org)。
 
-## 为什么不使用 Debian 12（稳定版），而是使用 Debian 13（不稳定版）？
+## 为什么使用 Debian 13（稳定版）？
 
-我们计划把 LingmoDE 迁移到 Qt6，因为 Debian 12 没有我们必需的包，我们不得不用Debian 13。
+我们计划把 LingmoDE 迁移到 Qt6，因为 Debian 13 有我们必需的包，而且比测试版稳定性更好。
 
 ## 为什么不用 Arch ？
 
