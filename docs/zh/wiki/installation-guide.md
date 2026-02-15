@@ -13,7 +13,7 @@
 
 ## *2* 下载 Lingmo OS 镜像
 
-您可以在[这里](https://lingmo.org/zh-cn/downloads)下载 Lingmo OS 镜像。请确保将其保存到电脑上一个不容易忘记的位置！在本教程中，我们将使用 LingmoOS 3.0 测试版，该版本使用最新的 Lingmo 安装程序，该安装程序将包含在所有未来的 LingmoOS 版本中。
+您可以在[这里](https://lingmo.org/zh/downloads)下载 Lingmo OS 镜像。请确保将其保存到电脑上一个不容易忘记的位置！在本教程中，我们将使用 LingmoOS 3.0 测试版，该版本使用最新的 Lingmo 安装程序，该安装程序将包含在所有未来的 LingmoOS 版本中。
 
 ![下载 Lingmo OS ISO](../assets/installation-guide/Download.webp)
 
